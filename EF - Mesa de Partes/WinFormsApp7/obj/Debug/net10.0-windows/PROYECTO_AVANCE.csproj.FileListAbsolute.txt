@@ -1,0 +1,88 @@
+C:\Users\nvera\source\repos\WinFormsApp7\WinFormsApp7\bin\Debug\net10.0-windows\PROYECTO_AVANCE.exe
+C:\Users\nvera\source\repos\WinFormsApp7\WinFormsApp7\bin\Debug\net10.0-windows\PROYECTO_AVANCE.deps.json
+C:\Users\nvera\source\repos\WinFormsApp7\WinFormsApp7\bin\Debug\net10.0-windows\PROYECTO_AVANCE.runtimeconfig.json
+C:\Users\nvera\source\repos\WinFormsApp7\WinFormsApp7\bin\Debug\net10.0-windows\PROYECTO_AVANCE.dll
+C:\Users\nvera\source\repos\WinFormsApp7\WinFormsApp7\bin\Debug\net10.0-windows\PROYECTO_AVANCE.pdb
+C:\Users\nvera\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net10.0-windows\WinFormsApp7.EXPEDIENTE.resources
+C:\Users\nvera\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net10.0-windows\WinFormsApp7.GESTION.resources
+C:\Users\nvera\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net10.0-windows\WinFormsApp7.INICIO.resources
+C:\Users\nvera\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.Properties.Resources.resources
+C:\Users\nvera\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net10.0-windows\WinFormsApp7.SEGUNDA_INTERFAZ.resources
+C:\Users\nvera\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.csproj.GenerateResource.cache
+C:\Users\nvera\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvera\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.AssemblyInfoInputs.cache
+C:\Users\nvera\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.AssemblyInfo.cs
+C:\Users\nvera\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.csproj.CoreCompileInputs.cache
+C:\Users\nvera\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.sourcelink.json
+C:\Users\nvera\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.dll
+C:\Users\nvera\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net10.0-windows\refint\PROYECTO_AVANCE.dll
+C:\Users\nvera\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.pdb
+C:\Users\nvera\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.genruntimeconfig.cache
+C:\Users\nvera\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net10.0-windows\ref\PROYECTO_AVANCE.dll
+C:\Users\nvera\source\repos\PROYECTO_AVANCE\WinFormsApp7\bin\Debug\net10.0-windows\PROYECTO_AVANCE.exe
+C:\Users\nvera\source\repos\PROYECTO_AVANCE\WinFormsApp7\bin\Debug\net10.0-windows\PROYECTO_AVANCE.deps.json
+C:\Users\nvera\source\repos\PROYECTO_AVANCE\WinFormsApp7\bin\Debug\net10.0-windows\PROYECTO_AVANCE.runtimeconfig.json
+C:\Users\nvera\source\repos\PROYECTO_AVANCE\WinFormsApp7\bin\Debug\net10.0-windows\PROYECTO_AVANCE.dll
+C:\Users\nvera\source\repos\PROYECTO_AVANCE\WinFormsApp7\bin\Debug\net10.0-windows\PROYECTO_AVANCE.pdb
+C:\Users\nvera\source\repos\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\WinFormsApp7.EXPEDIENTE.resources
+C:\Users\nvera\source\repos\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\WinFormsApp7.GESTION.resources
+C:\Users\nvera\source\repos\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\WinFormsApp7.INICIO.resources
+C:\Users\nvera\source\repos\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.Properties.Resources.resources
+C:\Users\nvera\source\repos\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\WinFormsApp7.SEGUNDA_INTERFAZ.resources
+C:\Users\nvera\source\repos\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.csproj.GenerateResource.cache
+C:\Users\nvera\source\repos\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvera\source\repos\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.AssemblyInfoInputs.cache
+C:\Users\nvera\source\repos\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.AssemblyInfo.cs
+C:\Users\nvera\source\repos\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.csproj.CoreCompileInputs.cache
+C:\Users\nvera\source\repos\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.sourcelink.json
+C:\Users\nvera\source\repos\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.dll
+C:\Users\nvera\source\repos\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\refint\PROYECTO_AVANCE.dll
+C:\Users\nvera\source\repos\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.pdb
+C:\Users\nvera\source\repos\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.genruntimeconfig.cache
+C:\Users\nvera\source\repos\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\ref\PROYECTO_AVANCE.dll
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\bin\Debug\net10.0-windows\PROYECTO_AVANCE.exe
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\bin\Debug\net10.0-windows\PROYECTO_AVANCE.deps.json
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\bin\Debug\net10.0-windows\PROYECTO_AVANCE.runtimeconfig.json
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\bin\Debug\net10.0-windows\PROYECTO_AVANCE.dll
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\bin\Debug\net10.0-windows\PROYECTO_AVANCE.pdb
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\WinFormsApp7.EXPEDIENTE.resources
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\WinFormsApp7.INICIO.resources
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.Properties.Resources.resources
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\WinFormsApp7.SEGUNDA_INTERFAZ.resources
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.csproj.GenerateResource.cache
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.AssemblyInfoInputs.cache
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.AssemblyInfo.cs
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.csproj.CoreCompileInputs.cache
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.sourcelink.json
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.dll
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\refint\PROYECTO_AVANCE.dll
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.pdb
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.genruntimeconfig.cache
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\ref\PROYECTO_AVANCE.dll
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\WinFormsApp7.GESTIONDATOS.resources
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.GESTIONUSUARIO.resources
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\bin\Debug\net10.0-windows\PROYECTO_AVANCE.runtimeconfig.dev.json
+C:\Users\nvera\OneDrive\Escritorio\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO.347BFF59.Up2Date
+C:\Users\HP\Downloads\Nueva carpeta\xdddd\PROYECTO_AVANCE\WinFormsApp7\bin\Debug\net10.0-windows\PROYECTO_AVANCE.exe
+C:\Users\HP\Downloads\Nueva carpeta\xdddd\PROYECTO_AVANCE\WinFormsApp7\bin\Debug\net10.0-windows\PROYECTO_AVANCE.deps.json
+C:\Users\HP\Downloads\Nueva carpeta\xdddd\PROYECTO_AVANCE\WinFormsApp7\bin\Debug\net10.0-windows\PROYECTO_AVANCE.runtimeconfig.json
+C:\Users\HP\Downloads\Nueva carpeta\xdddd\PROYECTO_AVANCE\WinFormsApp7\bin\Debug\net10.0-windows\PROYECTO_AVANCE.dll
+C:\Users\HP\Downloads\Nueva carpeta\xdddd\PROYECTO_AVANCE\WinFormsApp7\bin\Debug\net10.0-windows\PROYECTO_AVANCE.pdb
+C:\Users\HP\Downloads\Nueva carpeta\xdddd\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\WinFormsApp7.EXPEDIENTE.resources
+C:\Users\HP\Downloads\Nueva carpeta\xdddd\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\WinFormsApp7.GESTIONDATOS.resources
+C:\Users\HP\Downloads\Nueva carpeta\xdddd\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.GESTIONUSUARIO.resources
+C:\Users\HP\Downloads\Nueva carpeta\xdddd\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\WinFormsApp7.INICIO.resources
+C:\Users\HP\Downloads\Nueva carpeta\xdddd\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.Properties.Resources.resources
+C:\Users\HP\Downloads\Nueva carpeta\xdddd\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\WinFormsApp7.SEGUNDA_INTERFAZ.resources
+C:\Users\HP\Downloads\Nueva carpeta\xdddd\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Nueva carpeta\xdddd\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Nueva carpeta\xdddd\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Nueva carpeta\xdddd\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.AssemblyInfo.cs
+C:\Users\HP\Downloads\Nueva carpeta\xdddd\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Nueva carpeta\xdddd\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.dll
+C:\Users\HP\Downloads\Nueva carpeta\xdddd\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\refint\PROYECTO_AVANCE.dll
+C:\Users\HP\Downloads\Nueva carpeta\xdddd\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.pdb
+C:\Users\HP\Downloads\Nueva carpeta\xdddd\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO_AVANCE.genruntimeconfig.cache
+C:\Users\HP\Downloads\Nueva carpeta\xdddd\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\ref\PROYECTO_AVANCE.dll
+C:\Users\HP\Downloads\Nueva carpeta\xdddd\PROYECTO_AVANCE\WinFormsApp7\obj\Debug\net10.0-windows\PROYECTO.347BFF59.Up2Date
